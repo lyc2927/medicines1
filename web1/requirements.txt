@@ -1,0 +1,4 @@
+torch
+scikit-learn
+lifelines==0.27.7
+pysurvival==0.1.2
